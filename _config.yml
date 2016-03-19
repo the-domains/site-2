@@ -1,7 +1,7 @@
 name: Site 2
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+layout_spectrum: 0.75442
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3322286258917302
+  brandStrength: 1
   lightness: 0
-  saturation: 0.09716242155991495
-  rhythmicContrast: 0.9015913452021778
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
